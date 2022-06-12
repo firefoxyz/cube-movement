@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"raylib.h": "c",
+			"raymath.h": "c",
+			"blocks.h": "c",
+			"stdio.h": "c",
+			"extras/physac.h": "c",
+			"*.m": "c"
+		}
+	}
+}
